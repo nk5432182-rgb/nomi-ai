@@ -1,0 +1,6 @@
+{
+  "name": "Nomi AI - Smart AI Tools for Creators",
+  "description": "Free AI-powered tools for creators, YouTubers, bloggers and social media users to generate prompts, captions, stories, titles and creative content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
